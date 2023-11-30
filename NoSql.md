@@ -18,7 +18,7 @@ In modern project environments, the demand for efficient data storage and retrie
 - Scalability: Offers horizontal scaling for large, distributed systems.
 - Agile Development: Supports flexible schema for seamless updates.
 
-**Link:** [MongoDB NoSQL Explained](https://www.mongodb.com/nosql-explained)
+**Link:** (https://www.mongodb.com/nosql-explained)
 
 ## 3. Cassandra
 
@@ -30,9 +30,11 @@ In modern project environments, the demand for efficient data storage and retrie
 - High Availability: Ensures continuous availability with no single point of failure.
 - Time-Series Data: Well-suited for scenarios involving time-series data.
 
+**Link:** (https://cassandra.apache.org/doc/latest/cassandra/architecture/overview.html)
+
 ## 4. Redis
 
-**Overview:** Redis is an in-memory key-value data store, often used for caching, messaging, and data structure storage.
+**Overview:** Redis is an in-memory key-value data storage, often used for caching, messaging, and data structure storage.
 
 **Use Cases:**
 
