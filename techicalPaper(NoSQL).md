@@ -42,6 +42,8 @@ In modern project environments, the demand for efficient data storage and retrie
 - Real-time Analytics: In-memory nature allows for high-speed analytics.
 - Pub/Sub Messaging: Used in real-time messaging applications.
 
+**Link:** (https://redis.io/docs/about/)
+
 ## 5. Neo4j
 
 **Overview:** Neo4j is a graph database that uses graph structures for representing and storing data, making it ideal for scenarios involving complex relationships.
@@ -52,6 +54,8 @@ In modern project environments, the demand for efficient data storage and retrie
 - Recommendation Engines: Effective for pattern and relationship analysis.
 - Network and IT Operations: Ideal for scenarios involving interconnectivity analysis.
 
+**Link:** (https://neo4j.com/developer-blog/overview-of-the-neo4j-graph-data-platform/)
+
 ## 6. DynamoDB
 
 **Overview:** Amazon DynamoDB is a fully managed NoSQL database service known for its fast and predictable performance with seamless scalability.
@@ -61,6 +65,8 @@ In modern project environments, the demand for efficient data storage and retrie
 - Serverless Architectures: Well-suited for serverless applications due to its managed nature.
 - Scalability: Scales horizontally to handle varying workloads.
 - Low-Latency Requirements: Suited for applications demanding low-latency access to data.
+
+**Link:** (https://aws.amazon.com/dynamodb/)
 
 ## 3. Methodology
 
