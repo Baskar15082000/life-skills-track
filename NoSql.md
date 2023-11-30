@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This technical paper presents an in-depth investigation into the adoption of NoSQL databases to address performance and scaling issues in project environments. The study evaluates five prominent NoSQL databases—MongoDB, Cassandra, Redis, Neo4j, and DynamoDB—analyzing their key features, use cases, and performance characteristics. The objective is to provide project teams with valuable insights into selecting the most suitable NoSQL solution based on specific project requirements.
+This technical paper presents an in-depth investigation into the adoption of NoSQL databases to address performance and scaling issues in project environments. The study evaluates five prominent NoSQL databases they are MongoDB, Cassandra, Redis, Neo4j, and DynamoDB.To analyzing their key features, use cases, and performance characteristics to provide most suitable NoSQL Databases solution based on project requirements.
 
 ## 1. Introduction
 
@@ -10,7 +10,7 @@ In modern project environments, the demand for efficient data storage and retrie
 
 ## 2. MongoDB
 
-**Overview:** MongoDB is a document-oriented NoSQL database known for its flexibility and scalability. It stores data in BSON documents, making it suitable for projects with complex data structures.
+**Overview:** MongoDB is a document-oriented, open-source database that stores large amounts of data. It's categorized as a NoSQL (Not only SQL) database because it doesn't store and retrieve data in tables.Instead, it uses collections and documents. Documents are made up of key-value pairs, which are the basic unit of data in MongoDB.It is also known for its flexibility and scalability. It stores data in BSON documents, making it suitable for projects with complex data structures.
 
 **Use Cases:**
 
