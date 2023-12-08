@@ -44,3 +44,10 @@ An example habit I'd like to cultivate is doing three coding questions on Data S
 - Leverage platforms like LeetCode with daily streaks for consistency.
 - Join active social media groups to stay connected and motivated.
 - Share newfound knowledge with interested friends for a sense
+
+## Habit to Eliminate: Excessive Social Media Usage
+
+To reduce excessive social media usage, here are steps to make the cue invisible, the process unattractive, or the response unsatisfying:
+
+- Remove social media apps from the home screen to make them less visible.
+- Turn off non-essential notifications to minimize prompts.
